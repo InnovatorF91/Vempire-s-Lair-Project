@@ -1,3 +1,5 @@
+## 📁 リリース版をダウンロードするには、以下にアクセスしてください。 [https://github.com/InnovatorF91/AI-Chat-App/releases/tag/v1.0.0-beta](https://github.com/InnovatorF91/AI-Chat-App/releases/tag/v1.0.0-beta](https://github.com/InnovatorF91/Vempire-s-Lair-Project/releases/tag/V.1.0.0-Beta)
+
 # 🧛‍♂️ Vampire's Lair
 
 Unity製のサードパーソンシューティングサバイバルゲーム。プレイヤーは女性主人公となり、吸血鬼が跋扈する地下基地を舞台に、ゾンビの大群と戦い、シナリオを攻略し、強力なボスに挑み、最高スコアを目指します！
