@@ -1,4 +1,4 @@
-## 📁 リリース版をダウンロードするには、以下にアクセスしてください。 [https://github.com/InnovatorF91/AI-Chat-App/releases/tag/v1.0.0-beta](https://github.com/InnovatorF91/AI-Chat-App/releases/tag/v1.0.0-beta](https://github.com/InnovatorF91/Vempire-s-Lair-Project/releases/tag/V.1.0.0-Beta)
+## 📁 リリース版をダウンロードするには、以下にアクセスしてください。 https://github.com/InnovatorF91/AI-Chat-App/releases/tag/v1.0.0-beta
 
 # 🧛‍♂️ Vampire's Lair
 
